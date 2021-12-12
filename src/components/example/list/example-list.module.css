@@ -1,0 +1,16 @@
+.host {
+    margin: 2rem;
+}
+
+.block {
+    width: 30vw;
+    margin: 2rem;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.listItem {
+    margin-bottom: 2rem;
+}
